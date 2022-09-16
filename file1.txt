@@ -2,3 +2,5 @@
 2.a+b
 3.put the result in c
 4.print c
+example:
+if a=1,b=2;then c=3
