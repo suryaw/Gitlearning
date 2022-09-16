@@ -1,0 +1,4 @@
+1.multiplication algorithm
+2.a*b
+3.put the result in c
+4.print c
